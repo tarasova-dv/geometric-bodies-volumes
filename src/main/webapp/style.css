@@ -1,0 +1,59 @@
+header {
+    background: #ffc0cb;
+    background: radial-gradient(circle at 80px 40px, #ffc0cb, #ff8597, #ff526c);
+    padding: 20px;
+    height: 40px;
+    width: 100%;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+    font-size: 40px;
+}
+nav {
+    background: #f6768e;
+    color: black;
+    width: 101%;
+    height: 40px;
+    text-align: center;
+}
+
+span.ingredient {
+    color: #850014;
+}
+
+
+.table {
+    width: 100%;
+    align: center;
+    text-align: center;
+}
+
+td {
+    padding: 5px;
+}
+
+th {
+    font-weight: bold;
+    font-style: italic;
+    padding: 5px;
+}
+
+hr {
+    width: 60%;
+    border: 1px solid deeppink;
+}
+
+
+.change-color-link {
+    color: #850014;
+    font-size: 20px;
+    font-weight: normal;
+    padding: 20px;
+    line-height: 1;
+    text-decoration: none;
+    transition: 1s;
+}
+
+.change-color-link:hover{
+    color: white;
+}
